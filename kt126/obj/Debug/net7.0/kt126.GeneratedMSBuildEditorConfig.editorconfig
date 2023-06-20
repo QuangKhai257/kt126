@@ -9,77 +9,77 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = kt126
 build_property.RootNamespace = kt126
-build_property.ProjectDir = C:\Users\Admin\OneDrive\Máy tính\New folder (2)\kt126\
+build_property.ProjectDir = c:\Users\Admin\OneDrive\Máy tính\New folder (2)\kt126\kt126\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Admin\OneDrive\Máy tính\New folder (2)\kt126
+build_property.MSBuildProjectDirectory = c:\Users\Admin\OneDrive\Máy tính\New folder (2)\kt126\kt126
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/Home/Index.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/Home/Privacy.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/LopHoc/Create.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/LopHoc/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/LopHoc/Delete.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/LopHoc/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/LopHoc/Details.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/LopHoc/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/LopHoc/Edit.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/LopHoc/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/LopHoc/Index.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/LopHoc/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9wSG9jXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/Shared/Error.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/SinhVien/Create.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/SinhVien/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/SinhVien/Delete.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/SinhVien/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/SinhVien/Details.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/SinhVien/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/SinhVien/Edit.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/SinhVien/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/SinhVien/Index.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/SinhVien/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2luaFZpZW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/_ViewImports.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/_ViewStart.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/Views/Shared/_Layout.cshtml]
+[c:/Users/Admin/OneDrive/Máy tính/New folder (2)/kt126/kt126/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-u5v5eisu6k
